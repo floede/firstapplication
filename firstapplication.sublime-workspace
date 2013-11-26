@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"printMaxQuestions"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"r",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/www/fodboldquiz/questions.json",
+		"/C/www/fodboldquiz/css/styles.less",
+		"/C/www/fodboldquiz/index.html",
+		"/C/www/fodboldquiz/js/scripts.js",
+		"/C/Users/Janus/Desktop/HexLogin.txt",
+		"/C/www/Hearthstats/hearthstyles.css",
+		"/C/www/Hearthstats/app/models/match.rb",
+		"/C/www/Hearthstats/app/controllers/matches_controller.rb",
+		"/C/www/Hearthstats/app/views/matches/index.html.erb",
+		"/C/www/Hearthstats/app/views/matches/index.json.jbuilder",
+		"/C/www/Hearthstats/app/views/matches/show.html.erb",
+		"/C/www/Hearthstats/app/views/matches/new.html.erb",
+		"/C/www/Hearthstats/app/views/welcome/index.html.erb",
+		"/C/www/Hearthstats/config/routes.rb",
+		"/C/www/Hearthstats/config/database.yml",
+		"/C/www/Hearthstats/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "firstapplication.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\www\\Hearthstats\\Hearthstats.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
